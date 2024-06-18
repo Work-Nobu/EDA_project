@@ -1,7 +1,24 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# EDA project
 
-Template for creating ds simple projects
+## Files
+- `requirements.txt` is a list of all the packages and dependencies you will need.
+
+- `summary_presentation.pdf` is the summary presentation of my work.
+
+- `result.ipynb` is my notebook file for my analysis.
+
+- `./data/eda.csv` contains the data.  
+
+- All `html` files are output maps from my analysis.
+
+- `./1_Fetching_the_data_eda.ipynb` explains how to access the remote data server.
+
+- `assignment.md` and `workflow.md` explain the tasks.
+
+- `EDA.ipynd` is a sample templet.
+
+
 
 ## Requirements
 
